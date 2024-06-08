@@ -6,4 +6,4 @@
 
 | **Name CTF** | **Category** | **Level (⭐⭐⭐⭐)** | **Status** |
 |--------------|--------------|----------------------|------------|
-| The Michigan Mistery | Geolocalization | Easy ⭐ | **✔** |
+| The Michigan Mistery | Geolocalization 🌍 | Easy ⭐ | **✔** |
