@@ -103,7 +103,3 @@ Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
 
 - Se aprecia que la foto inicial corresponde al castillo, la cual incluso fue tomada desde este hacia el quincho del norte.
 - A la izquierda se aprecia el puente que correspondería al puente de piedra de la imagen original.
-
-## Solución
-
-- `glen_eyrie_castle`
