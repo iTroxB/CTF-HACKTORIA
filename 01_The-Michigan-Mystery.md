@@ -4,7 +4,7 @@
 
 | **Category**      | **Level** |
 |--------------------|----------|
-| Geolocalization 🌍 | Easy |
+| Geolocalization 🌍 | Easy ⭐ |
 
 ---
 
