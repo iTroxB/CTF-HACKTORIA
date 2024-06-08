@@ -73,7 +73,7 @@ Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
 
 - Buscar imagen en **Google Lens*
 
-![[/img/Pasted image 20240608005138.png]]
+![[img/Pasted image 20240608005138.png]]
 
 - Posiblemente pertenece a un sitio llamado **Colorado Springs: Glen Eyrie Castle**. [Información del sitio turístico aquí](https://eenusa.smugmug.com/North-America-US-Canada-Mexico/USA/Colorado/COS-GlenEyrie)
 
