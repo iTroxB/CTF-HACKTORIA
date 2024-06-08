@@ -1,5 +1,4 @@
-# El misterio de Michigan
-
+# The Michigan Mistery
 ![](./img/Badge-The-Michigan-Mystery.png)
 
 | **Category**      | **Level** |
@@ -10,33 +9,33 @@
 
 ![](https://hacktoria.com/wp-content/uploads/2024/05/Cover-The-Michigan-Mystery.jpg)
 
-Sanaya Patel, una agente de SISU, había estado trabajando incansablemente y finalmente decidió tomarse unas vacaciones muy necesarias. Decidió pasarlo en un pequeño pueblo de Michigan, con la esperanza de relajarse y descansar.
+Sanaya Patel, an agent for the S.I.S.U. had been working tirelessly and finally decided to take a much-needed vacation. She decided she would spend it in a small town in Michigan, hoping to relax and unwind.
 
-Una noche, mientras exploraba la ciudad, conoció a un hombre llamado Thomas Griswold. Se llevaron bien de inmediato y pasaron los siguientes días juntos, disfrutando de la compañía del otro y pasándolo muy bien. Sanaya sintió que finalmente había encontrado a alguien que la entendía.  
-  
-Sin embargo, las cosas de repente empeoraron cuando Thomas comenzó a actuar de manera extraña. Estaba agitado y nervioso. Sanaya se dio cuenta de que algo le molestaba y cuando le preguntó si todo estaba bien él arremetió en un ataque de rabia, casi golpeándola. Pero se detuvo y salió furioso de la habitación.  
-  
-Sanaya quedó sola y confundida, en estado de shock preguntándose qué había sucedido. Momentos después, su confusión pronto se convirtió en horror cuando escuchó una conmoción afuera. Salió corriendo y encontró a Thomas tirado en el suelo, con alguien rebuscando en sus bolsillos. El extraño huyó de la escena cuando vio a Sanaya corriendo hacia él gritando.  
-  
-Se llamó al Departamento de Policía de Michigan y comenzaron a investigar el incidente. Interrogaron a Sanaya y con la ayuda de un dibujante pudieron identificar rápidamente al extraño como Jonathan Bedwell. Jonathan es contador en el condado de al lado, sin antecedentes penales ni antecedentes de violencia. Toda la situación era desconcertante y Sanaya no podía entender por qué alguien mataría a Thomas.  
-  
-Sanaya le entregó su tarjeta al Jefe y luego fue y se sentó en la sala de descanso. El Jefe se puso en contacto con el Subdirector de SISU y le informó que Sanaya era un Agente Especial. El Jefe entró en la sala de descanso: “Su Director habla muy bien de usted y dice que es una de las mejores. También dijo que le hiciera saber que Thomas Griswold era un ex miembro reciente de la organización criminal llamada 'Criminopeia' y que todos los recursos de la SISU estaban a su disposición.“
+One evening, while exploring the town, she met a man named Thomas Griswold. They hit it off immediately and spent the next few days together, enjoying each other’s company, having a great time. Sanaya felt like she had finally found someone who understood her.
 
-No pasó mucho tiempo para que Jonathan fuera aprehendido, y al ser interrogado dijo que huyó porque tenía miedo. Estaba buscando un USB que Thomas le había dicho que tenía. “Thomas me llamó ayer diciendo que tenía información sobre mi hija pero que no debía contactar a la policía o nunca la encontrarían con vida. Las instrucciones eran encontrarme con él afuera de la tienda y que me trajera un USB que proporcionaría información sobre la ubicación de mi hija. “Mi Juanita lleva 4 semanas desaparecida y no han hecho nada para encontrarla. Diciéndome que probablemente simplemente se escapó”. Thomas dijo que después de tener el USB debía entrar a la tienda y dárselo a alguien llamado Sanaya. Dijo que ella sabría qué hacer. Todos se volvieron y miraron a Sanaya. Extendió la mano para recibir el USB, "Soy Sanaya".
+However, things suddenly took a turn for the worse when Thomas started acting strange. He was agitated and on edge. Sanaya could tell that something was bothering him and when she asked if everything was ok he lashed out in a fit of rage, almost hitting her. But he stopped himself and stormed out of the room.
 
-Es posible que Sanaya todavía esté en shock y necesitamos ayudar. La siguiente imagen muestra todos los datos contenidos en el USB. Ayúdanos a encontrar a la niña y llevarla de vuelta con su padre.
+Sanaya was left alone and confused, in a state of shock wondering what had happened. Moments later her confusion soon turned to horror when she heard a commotion outside. She rushed out to find Thomas lying on the ground, with someone rummaging through his pockets. The stranger fled the scene when he saw Sanaya running towards him screaming out.
 
-Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
+The Michigan Police Department was called and they began investigating the incident. They questioned Sanaya and with the help of a sketch artist they were able to quickly identify the stranger as Jonathan Bedwell. Jonathan is an accountant in the next county, with no criminal record or history of violence. The whole situation was puzzling, and Sanaya couldn’t understand why someone would kill Thomas.
 
-## Materiales
+Sanaya handed the Chief her card and then went and sat in the break room. The Chief contacted the SISU Deputy Director and was inform that Sanaya was a Special Agent. The Chief walked into the break room, “Your Director speaks very highly of you, says you are one of the best. He also said to let you know that Thomas Griswold was a recent ex-member of the criminal organization by the name of ‘Criminopeia’ and that all the resources of the SISU were at your disposal.
+
+It didn’t take long for Jonathan to be apprehended, and in questioning he said that he ran because he was scared. He was looking for a USB that Thomas had told him he had. “Thomas called me yesterday saying that he had information about my daughter but that I was not to contact the police or she would never be found alive. The instructions were to meet him outside the shop and that he would bring me a USB that would provide information about the location of my daughter. “My Juanita has been missing for 4 weeks and you have done nothing to find her. Telling me she probably just ran away.” Thomas said after I had the USB I was to walk into the shop and give it to someone named Sanaya. He said she would know what to do. Everyone turned and looked at Sanaya. She put out her hand to receive the USB, “I am Sanaya.”
+
+Sanaya may still be in shock and we need to help. The image below was all the data contained on the data the USB. Help us find the little girl and bring her back to her father.
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.
+
+## Materials
 
 ![](https://i0.wp.com/hacktoria.com/wp-content/uploads/2024/05/location-edited.png?resize=845%2C366&ssl=1)
 
-## Investigación
+## Investigation
 
-### 1. Data inicial
+### 1. Initial Data
 
-#### a. Resumen
+#### a. Resume
 
 - Sanaya Patel se va de vacaciones a un pueblo de Michigan
 - Aquí conoce a Thomas Griswold
@@ -73,7 +72,7 @@ Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
 - Posible asesino de **Thomas**
 - Este a sido atormentado por **Thomas** por conocer el paradero de su hija desaparecida
 
-### 2. Investigación
+### 2. OSINT
 
 - Buscar imagen en **Google Lens**
 
