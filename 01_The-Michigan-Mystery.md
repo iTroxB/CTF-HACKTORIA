@@ -1,10 +1,14 @@
-![](https://hacktoria.com/wp-content/uploads/2024/05/Cover-The-Michigan-Mystery.jpg)
-
 # El misterio de Michigan
+
+![](./img/Badge-The-Michigan-Mystery.png)
 
 | **Category**      | **Level** |
 | ----------------- | --------- |
 | `Geolocalization` | `Easy`    |
+
+---
+
+![](https://hacktoria.com/wp-content/uploads/2024/05/Cover-The-Michigan-Mystery.jpg)
 
 Sanaya Patel, una agente de SISU, había estado trabajando incansablemente y finalmente decidió tomarse unas vacaciones muy necesarias. Decidió pasarlo en un pequeño pueblo de Michigan, con la esperanza de relajarse y descansar.
 
@@ -103,7 +107,3 @@ Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
 
 - Se aprecia que la foto inicial corresponde al castillo, la cual incluso fue tomada desde este hacia el quincho del norte.
 - A la izquierda se aprecia el puente que correspondería al puente de piedra de la imagen original.
-
----
-
-![](./img/Badge-The-Michigan-Mystery.png)
