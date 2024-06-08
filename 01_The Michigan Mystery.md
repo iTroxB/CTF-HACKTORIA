@@ -73,33 +73,33 @@ Como siempre, Agente Especial K. El contrato es suyo, si decide aceptarlo.
 
 - Buscar imagen en **Google Lens*
 
-![[/img/Pasted%image%20240608005138.png]]
+![](./img/Pasted%image%20240608005138.png)
 
 - Posiblemente pertenece a un sitio llamado **Colorado Springs: Glen Eyrie Castle**. [Información del sitio turístico aquí](https://eenusa.smugmug.com/North-America-US-Canada-Mexico/USA/Colorado/COS-GlenEyrie)
 
-![[/img/Pasted image 20240608005017.png]]
+![](./img/Pasted%image%20240608005017.png)
 
 - Se descubre información en publicación de Instagram de usuario [@andrewfinnmagillmusic](https://www.instagram.com/andrewfinnmagillmusic/)
 
-![[/img/Pasted image 20240608004642.png]]
+![](./img/Pasted%image%20240608004642.png)
 
 - Etiqueta indica el hashtag `@gleneyriecastle`
 
-![[/img/Pasted image 20240608004727.png]]
+![](./img/Pasted%image%20240608004727.png)
 
 - Se presenta una dirección en al descripción del hotel
 	- `3820 N 30th St, Colorado Springs, Colorado 80904`
 - Al buscarla en google se obtiene la siguiente info:
 
-![[/img/Pasted image 20240608005953.png]]
+![](./img/Pasted%image%20240608005953.png)
 
 - Desde google maps se aprecian las estancias de **Glen Eyrie**, incluido el castillo
 
-![[/img/Pasted image 20240608010127.png]]
+![](./img/Pasted%image%20240608010127.png)
 
 - Un acercamiento al castillo
 
-![[/img/Pasted image 20240608010205.png]]
+![](./img/Pasted%image%20240608010205.png)
 
 - Se aprecia que la foto inicial corresponde al castillo, la cual incluso fue tomada desde este hacia el quincho del norte.
 - A la izquierda se aprecia el puente que correspondería al puente de piedra de la imagen original.
