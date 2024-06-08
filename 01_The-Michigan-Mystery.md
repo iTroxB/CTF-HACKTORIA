@@ -3,8 +3,8 @@
 ![](./img/Badge-The-Michigan-Mystery.png)
 
 | **Category**      | **Level** |
-| ----------------- | --------- |
-| `Geolocalization` | `Easy`    |
+|--------------------|----------|
+| Geolocalization 🌍 | Easy |
 
 ---
 
